@@ -1,8 +1,6 @@
 ![Design and Development](https://github.com/MatanCohenMC/MatanCohenMC/blob/main/LinkedIn%20Banner.png)
 
-# Matan Cohen
-## Software Engineer
-
+# Matan Cohen - Software Engineer
 Dedicated software Engineer with a passion for innovation and problem solving.
 
 ## Skills and Experience
