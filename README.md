@@ -1,8 +1,9 @@
 ![Design and Development](https://github.com/MatanCohenMC/MatanCohenMC/blob/main/LinkedIn%20Banner.png)
 
 # Matan Cohen
-Software Engineer
-Dedicated software developer with a passion for innovation and problem solving.
+## Software Engineer
+
+Dedicated software Engineer with a passion for innovation and problem solving.
 
 ## Skills and Experience
 * Programming languages: C++, C#.
@@ -17,4 +18,4 @@ Dedicated software developer with a passion for innovation and problem solving.
 
 - ✉️ How to reach me: Matan10cohen@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/matan-cohen-mc/)  
+My Linkedin profile -> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/matan-cohen-mc/)  
