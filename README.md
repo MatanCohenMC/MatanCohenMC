@@ -14,6 +14,6 @@ Dedicated software Engineer with a passion for innovation and problem solving.
 * Game development in Unity: mobile, VR and PC.
 
 
-- ✉️ How to reach me: Matan10cohen@gmail.com
+✉️ How to reach me: Matan10cohen@gmail.com
 
-My Linkedin profile -> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matan-cohen-mc/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matan-cohen-mc/)  
