@@ -2,17 +2,19 @@
 
 # Matan Cohen
 Software Engineer
-
+Dedicated software developer with a passion for innovation and problem solving.
 
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+* Programming languages: C++, C#.
+* .NET Framework.
+* Design Patterns.
+* Algorithms and Data Structures.
+* Hands-on experience in REST, Docker, MongoDB.
+* Basic knowledge in DevOps: CI/CD, Jenkins, Selenium, Gatling.
+* Basic knowledge in Front End technologies: JavaScript, React, CSS.
+* Game development in Unity: mobile, VR and PC.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Matan10cohen@gmail.com
--->
+- ✉️ How to reach me: Matan10cohen@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/matan-cohen-mc/)  
