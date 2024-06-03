@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/MatanCohenMC/MatanCohenMC/blob/main/LinkedIn%20Banner.png)
+![Software Engineer LinkedIn Banner ](https://github.com/MatanCohenMC/MatanCohenMC/assets/65343660/99fd4f2c-4110-400e-b957-91eaf9db6a1b)
 
 # Matan Cohen - Software Engineer
 Hello! I’m Matan Cohen, a dedicated 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 from Israel, who 𝐭𝐡𝐫𝐢𝐯𝐞𝐬 𝐨𝐧 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠, 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠.
